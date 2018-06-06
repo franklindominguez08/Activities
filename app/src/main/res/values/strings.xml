@@ -15,4 +15,11 @@
         completions."
     </string>
     <string name="projects">Projects</string>
+    <string name="dialog_body_message">Wrong password or Username</string>
+    <string name="dialog_title_message">Authentication failed</string>
+    <string name="button_share">Share Profile</string>
+    <string name="profile_label_stars">Stars</string>
+    <string name="profile_label_repos">Repos</string>
+    <string name="profile_about_text_default">About text ...</string>
+    <string name="profile_name_default">Person Name</string>
 </resources>
